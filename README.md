@@ -30,14 +30,14 @@ A simple command-line Password Manager built using Python. This project allows u
 3. Run the Python file:
 
 ```bash
-python password_manager.py
+python Password_Manager.py
 ```
 
 ## Project Structure
 
-Password-Manager-Python/
+Python_Password_Manager/
 
-├── password_manager.py
+├── Password_Manager.py
 
 ├── password.txt
 
