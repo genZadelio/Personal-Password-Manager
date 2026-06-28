@@ -1,4 +1,4 @@
-# Personal Password Manager (Python)
+# Personal-Password-Manager (Python)
 
 ## Description
 
